@@ -100,12 +100,12 @@ if (isset($_GET['generated']) && $_GET['generated'] == "false") {
                 <form action="adminFormvalidation.php" method="POST">
                     <div class="form-group">
                         <label for="adminname">Username</label>
-                        <input type="text" class="form-control" id="adminname" name="UN" placeholder="Username ...">
+                        <input type="text" class="form-control" id="adminname" name="UN" placeholder="Enter Username">
                     </div>
                     <div class="form-group">
                         <label for="password">Password</label>
                         <input type="password" class="form-control" id="password" name="PASS"
-                               placeholder="Password ...">
+                               placeholder="Enter Password ">
                     </div>
                     <div align="right">
                         <input type="submit" class="btn btn-default" name="LOGIN" value="LOGIN">

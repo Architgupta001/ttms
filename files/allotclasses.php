@@ -54,7 +54,7 @@
                         </li>
                     </ul>
                 </li>
-                <li><a href="generatetimetable.php">GENERATE TIMETABLE</a></li>
+                <li><a href="generatetimetable.php">VIEW TIMETABLE</a></li>
 
             </ul>
             <ul class="nav navbar-nav navbar-right">
